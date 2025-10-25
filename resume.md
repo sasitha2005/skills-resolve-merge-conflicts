@@ -1,5 +1,5 @@
 # GitHub Teacher
-
+Charting the knowledge of the Internet, just like Newton explained gravity.
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Job History
